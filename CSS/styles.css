@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -8,4 +8,68 @@ a {
 }
 ul {
   list-style: none;
+}
+.header-link {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.16;
+}
+.accent {
+  color: #4d5ae5;
+}
+.nav-list-item {
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
+.address-list-item {
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
+.main-section {
+  background-color: #2e2f42;
+}
+.main-title {
+  color: #ffffff;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
+  text-align: center;
+}
+.btn-hero {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.section-title {
+  color: #2e2f42;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.subsection-title {
+  color: #2e2f42;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.section-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.team-section {
+  background-color: #f4f4fd;
+  text-align: center;
+}
+.features-section,
+.portfolio-section {
+  text-align: left;
+}
+.section-list-item {
+  background-color: #ffffff;
+}
+.site-footer {
+  background-color: #2e2f42;
 }
