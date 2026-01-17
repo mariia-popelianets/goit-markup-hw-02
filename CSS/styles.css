@@ -43,6 +43,7 @@ ul {
   background-color: #4d5ae5;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
 }
 .section-title {
   color: #2e2f42;
@@ -63,6 +64,7 @@ ul {
   background-color: #f4f4fd;
   text-align: center;
 }
+
 .features-section,
 .portfolio-section {
   text-align: left;
@@ -72,4 +74,18 @@ ul {
 }
 .site-footer {
   background-color: #2e2f42;
+}
+.footer-link {
+  color: #f4f4fd;
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.16;
+}
+.footer-text {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
